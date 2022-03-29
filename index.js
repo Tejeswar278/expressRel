@@ -10,6 +10,7 @@ const connectdb = async () => {
         console.log(error);
     }
    
+    
 };
 
 // USER SCHEMA
